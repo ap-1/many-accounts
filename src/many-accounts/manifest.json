@@ -1,0 +1,13 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "many-accounts",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Many Accounts",
+    "tagline": "Disables the 5 account limit in the account switcher",
+    "description": "This extension does not attempt to persist sessions--it leaves that up to Discord. Added accounts automatically persist when the client is restarted or reloaded.",
+    "authors": ["ap-1"],
+    "source": "https://github.com/ap-1/many-accounts"
+  }
+}
