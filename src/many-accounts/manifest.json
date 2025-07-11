@@ -1,6 +1,6 @@
 {
   "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
-  "id": "many-accounts",
+  "id": "manyAccounts",
   "version": "1.0.0",
   "apiLevel": 2,
   "meta": {
